@@ -9,9 +9,14 @@ Imagem da Topologia usada
 ![image](https://github.com/user-attachments/assets/d954eb03-9a55-4015-aaa4-6225f3ad3745)
 
 Configuração dos IPs dos Roteadores e Computadores
+
 192.168.0.0
 PC0 - 192.168.0.2
 Router0 - 192.168.0.1
+
+Comando "show ip protocols" mostrando o protocolo RIP em exceução no Route0
+![image](https://github.com/user-attachments/assets/395646c6-1586-458b-9300-c5d5f17a26e9)
+
 
 192.168.1.0
 Router0 - 192.168.1.2
@@ -43,6 +48,9 @@ Configuração dos IPs dos Roteadores, Computadores e AS
 PC0 - 192.168.0.2
 Router0 - 192.168.0.1
 Vizinhos Router0: 192.168.5.2 | 192.168.1.1
+
+Comando "show ip protocols" mostrando o protocolo BGP em exceução no Route0
+![image](https://github.com/user-attachments/assets/24e95ee5-c4e7-4769-a1dd-6c06a630f7b9)
 AS-180
 
 192.168.2.0
