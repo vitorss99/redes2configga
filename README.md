@@ -7,6 +7,8 @@ Link Download: https://learningnetwork.cisco.com/s/question/0D53i00000Kt599CAB/d
 Protocolo RIP
 Imagem da Topologia usada
 ![image](https://github.com/user-attachments/assets/d954eb03-9a55-4015-aaa4-6225f3ad3745)
+Link para rodar a topologia e configuração feita no Packet Tracer: 
+https://drive.google.com/file/d/1C7fRZ1jemweF_rZQZ5d3hFzz4-gYS8JF/view?usp=sharing
 
 Configuração dos IPs dos Roteadores e Computadores
 
@@ -16,6 +18,7 @@ Router0 - 192.168.0.1
 
 Comando "show ip protocols" mostrando o protocolo RIP em exceução no Route0
 ![image](https://github.com/user-attachments/assets/395646c6-1586-458b-9300-c5d5f17a26e9)
+
 
 
 192.168.1.0
@@ -41,6 +44,9 @@ Taxa de Transmissão
 
 Protocolo BGP
 ![image](https://github.com/user-attachments/assets/750aa6f7-12be-4087-b8d2-c16c9bedf60e)
+Link para rodar a topologia e configuração feita no Packet Tracer: 
+https://drive.google.com/file/d/1eNpBMRJdBMq-BS7mLW3i0NXpxIz-ZogW/view?usp=sharing
+
 
 Configuração dos IPs dos Roteadores, Computadores e AS
 
